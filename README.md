@@ -1,4 +1,4 @@
-COS 429 Final Project: Interpretability in Pedestrian Detection
+**COS 429 Final Project: Interpretability in Pedestrian Detection**
 
 Included in this repository:
 * detectron2 zip file - Contains custom [Detectron2](https://github.com/facebookresearch/detectron2) module and custom [pycocotools](https://github.com/cocodataset/cocoapi/tree/master/PythonAPI/pycocotools) module adapted for this project.
