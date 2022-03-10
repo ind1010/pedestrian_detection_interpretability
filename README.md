@@ -1,5 +1,7 @@
 **COS 429 Final Project: Interpretability in Pedestrian Detection**
 
+Authors: Indu Panigrahi and Raymond Liu
+
 Included in this repository:
 * detectron2 zip file - Contains custom [Detectron2](https://github.com/facebookresearch/detectron2) module and custom [pycocotools](https://github.com/cocodataset/cocoapi/tree/master/PythonAPI/pycocotools) module adapted for this project.
 * detectron2_fasterrcnn.ipynb - Jupyter notebook for using Detectron2 Faster R-CNN with a subset of the [Caltech Pedestrian Dataset](https://drive.google.com/drive/folders/1IBlcJP8YsCaT81LwQ2YwQJac8bf1q8xF)
